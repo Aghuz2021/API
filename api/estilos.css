@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(1, 8, 22) ;
+}
+.button{
+    margin-left: 10px;
+    
+}
+.hola{
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.card1{
+    padding:0px !important;
+}
